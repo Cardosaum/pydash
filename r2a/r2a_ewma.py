@@ -19,7 +19,6 @@ class R2A_EWMA(IR2A):
         self.throughputs = []
         self.request_time = 0
         self.qi = []
-        self.probs = []
         self.MINIMUM_BUFFER_SIZE = 15
 
     def handle_xml_request(self, msg):
@@ -53,7 +52,6 @@ class R2A_EWMA(IR2A):
                 )
 
             prob = avg / (avg + weight)
-            self.probs.append(prob)
 
             # if there's buffer is half empty, full it with lower quality
             buf = self.whiteboard.get_playback_buffer_size()
