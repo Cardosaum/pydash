@@ -55,23 +55,23 @@ class R2A_EWMA(IR2A):
         print()
         # considering the current throughput, what is the necessary quality to download to keep the buffer at minimum in a size where it covers possible new pauses?
         history = self.whiteboard.get_playback_history()
-        pauses = self.whiteboard.get_playback_pauses()
-        print(f"{pauses=}")
-        if history and pauses:
-            history_pause = max([x for x, y in history if x >= pauses[-1][0]])
-            if history_pause - pauses[-1][0] >= window_size * 6:
-                buf_pause = ewma_vectorized_safe(
-                    [y for x, y in self.whiteboard.get_playback_pauses()], alpha
-                )
-                pause = buf_pause[-1] if len(buf_pause) else 5
-                # decrease needed new blocks to buffer from current blocks in buffer
-                # TODO: bufs_need =
-                print(f"{buf_pause=}")
-                print(f"{pause=}")
-                print(f"ewma b: {ewma}")
-                ewma = (ewma * 2 + ewma / pause) / (2 + pause)
-        ewma *= 0.8
-        print(f"ewma a: {ewma}")
+        # pauses = self.whiteboard.get_playback_pauses()
+        # print(f"{pauses=}")
+        # if history and pauses:
+        #     history_pause = max([x for x, y in history if x >= pauses[-1][0]])
+        #     if history_pause - pauses[-1][0] >= window_size * 6:
+        #         buf_pause = ewma_vectorized_safe(
+        #             [y for x, y in self.whiteboard.get_playback_pauses()], alpha
+        #         )
+        #         pause = buf_pause[-1] if len(buf_pause) else 5
+        #         # decrease needed new blocks to buffer from current blocks in buffer
+        #         # TODO: bufs_need =
+        #         print(f"{buf_pause=}")
+        #         print(f"{pause=}")
+        #         print(f"ewma b: {ewma}")
+        #         ewma = (ewma * 2 + ewma / pause) / (2 + pause)
+        # ewma *= 0.8
+        # print(f"ewma a: {ewma}")
 
         selected_qi = self.qi[0]
         for i in self.qi:
