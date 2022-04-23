@@ -12,6 +12,7 @@ class R2A_EWMA(IR2A):
         self.throughputs = []
         self.request_time = 0
         self.qi = []
+        self.probs = []
 
     def handle_xml_request(self, msg):
         self.request_time = time.perf_counter()
@@ -32,6 +33,21 @@ class R2A_EWMA(IR2A):
         window_size = 10
         sum_proportion = 0.9999
         alpha = 1 - np.exp(np.log(1 - sum_proportion) / window_size)
+
+        avg = mean(self.throughputs)
+        weight = 0
+        for i in range(1, len(self.throughputs) + 1):
+            weight = (i / len(self.throughputs)) * abs(self.throughputs[i - 1] - avg)
+
+        prob = avg / (avg + weight)
+        self.probs.append(prob)
+        print("\n" + "=" * 10 + "\n")
+        print("Probability: ", prob)
+
+        print()
+        print(self.throughputs)
+        print(self.probs)
+        print("\n" + "=" * 10)
 
         # Get exponential weighted moving average for the throughput
         ewma = ewma_vectorized_safe(self.throughputs, alpha)[-1]
@@ -56,11 +72,10 @@ class R2A_EWMA(IR2A):
                 ewma = (ewma * 2 + ewma / pause) / (2 + pause)
         ewma *= 0.8
         print(f"ewma a: {ewma}")
-        print(f"{self.throughputs=}")
 
         selected_qi = self.qi[0]
         for i in self.qi:
-            if ewma > i:
+            if ewma * (prob) > i:
                 selected_qi = i
         if all(y == 0 for x, y in history):
             selected_qi = self.qi[0]
@@ -125,7 +140,6 @@ def ewma_vectorized_safe(data, alpha, row_size=None, dtype=None, order="C", out=
     else:
         dtype = np.dtype(dtype)
 
-    print(f"{row_size=}")
     row_size = (
         int(row_size)
         if (row_size is not None and int(row_size) > 0)
