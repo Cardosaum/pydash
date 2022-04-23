@@ -1,9 +1,14 @@
+# Membros do grupo:
+#
+# - Ualiton Ventura da Silva, número de matrícula: 202033580
+# - Matheus Cardoso de Souza, número de matrícula: 202033507
+#
+
 from r2a.ir2a import IR2A
 from player.parser import *
 import time
 from statistics import mean
 import numpy as np
-import pandas as pd
 from base.whiteboard import Whiteboard
 
 
@@ -35,8 +40,8 @@ class R2A_EWMA(IR2A):
 
         # Get exponential weighted moving average for the throughput
         if self.throughputs:
-            ewma_df = pd.DataFrame(self.throughputs).ewm(com=0.9999).mean()
-            ewma = [x[0] for x in ewma_df.values][-1]
+            ewma_array = self.ewma(0.9999)
+            ewma = list(ewma_array)[-1]
 
             # calculate probability
             avg = mean(self.throughputs)
@@ -76,3 +81,18 @@ class R2A_EWMA(IR2A):
 
     def finalization(self):
         pass
+
+    def ewma(self, alpha: float):
+        # convert input data to numpy array
+        np_data = np.array(self.throughputs)
+        np_size = np_data.size
+
+        # Create list of weights multiplied by alpha and powers
+        weights_alpha = np.ones(shape=(np_size, np_size)) * (1 - alpha)
+        powers = np.vstack([np.arange(i, i - np_size, -1) for i in range(np_size)])
+
+        # Create weight vectors
+        weights = np.tril(weights_alpha**powers, 0)
+
+        # Compute exponential weighted moving average
+        return np.dot(weights, np_data[:: np.newaxis]) / weights.sum(axis=1)
