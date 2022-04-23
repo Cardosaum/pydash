@@ -1,8 +1,10 @@
-# Membros do grupo:
-#
-# - Ualiton Ventura da Silva, número de matrícula: 202033580
-# - Matheus Cardoso de Souza, número de matrícula: 202033507
-#
+###############################################################
+#                      Membros do grupo                       #
+#                                                             #
+# - Ualiton Ventura da Silva, número de matrícula: 202033580  #
+# - Matheus Cardoso de Souza, número de matrícula: 202033507  #
+#                                                             #
+###############################################################
 
 from r2a.ir2a import IR2A
 from player.parser import *
