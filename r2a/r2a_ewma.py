@@ -6,12 +6,11 @@
 #                                                             #
 ###############################################################
 
-from r2a.ir2a import IR2A
 from player.parser import *
-import time
+from r2a.ir2a import IR2A
 from statistics import mean
 import numpy as np
-from base.whiteboard import Whiteboard
+import time
 
 
 class R2A_EWMA(IR2A):
