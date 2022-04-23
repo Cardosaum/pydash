@@ -39,6 +39,8 @@ class R2A_EWMA(IR2A):
         self.request_time = time.perf_counter()
 
         # Get exponential weighted moving average for the throughput
+        # We need to ensure that there is at least one value
+        # in self.throughputs
         if self.throughputs:
             ewma_array = self.ewma(0.9999)
             ewma = list(ewma_array)[-1]
@@ -50,10 +52,12 @@ class R2A_EWMA(IR2A):
                 weight = (i / len(self.throughputs)) * abs(
                     self.throughputs[i - 1] - avg
                 )
-
             prob = avg / (avg + weight)
 
-            # if there's buffer is half empty, full it with lower quality
+            # if the buffer is half empty, full it with lower quality.
+            #
+            # we do it to ensure we have some packages available in case of
+            # internet degradation.
             buf = self.whiteboard.get_playback_buffer_size()
             if buf and buf[-1][1] < self.MINIMUM_BUFFER_SIZE:
                 ewma *= 0.5
@@ -63,6 +67,9 @@ class R2A_EWMA(IR2A):
             for i in self.qi:
                 if ewma * prob >= i:
                     selected_qi = i
+
+        # if there is no value in self.throughputs, we just select the minimum
+        # available quality
         else:
             selected_qi = min(self.qi)
 
