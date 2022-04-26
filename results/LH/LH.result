@@ -1,0 +1,1771 @@
+Initialization modules phase.
+> Initializing module Player
+> Initializing module R2A_EWMA
+> Initializing module ConnectionHandler
+Execution Time 0.057159 > request: 1, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.05753 > selected QI: 9
+Execution Time 0.155107 > received: 1, 620705, 456856, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.155171 > measured throughput: 4660191.813761703
+Execution Time 0.155235 > buffer size: 1
+Execution Time 0.1553 > request: 2, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.155828 > selected QI: 12
+Execution Time 0.543234 > received: 2, 1312787, 1828984, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.543303 > measured throughput: 4713446.733310736
+Execution Time 0.543376 > buffer size: 2
+Execution Time 0.543445 > request: 3, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.543999 > selected QI: 13
+Execution Time 0.809982 > received: 3, 1662809, 1253432, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.810054 > measured throughput: 4700772.738714181
+Execution Time 0.81012 > buffer size: 3
+Execution Time 0.810188 > request: 4, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 0.810739 > selected QI: 13
+Execution Time 1.237987 > received: 4, 1662809, 2017528, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 1.238065 > measured throughput: 4714864.482621634
+Execution Time 1.238152 > buffer size: 4
+Execution Time 1.238217 > request: 5, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 1.238807 > selected QI: 13
+Execution Time 1.662535 > received: 5, 1662809, 2000728, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 1.662603 > measured throughput: 4714065.198860472
+Execution Time 1.662667 > buffer size: 5
+Execution Time 1.662688 buffering process is concluded
+Execution Time 1.663048 > buffer size: 4
+Execution Time 1.663191 > request: 6, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 1.663775 > selected QI: 13
+Execution Time 2.076234 > received: 6, 1662809, 1945360, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 2.076302 > measured throughput: 4708643.988018582
+Execution Time 2.076371 > buffer size: 5
+Execution Time 2.076436 > request: 7, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 2.077021 > selected QI: 13
+Execution Time 2.478937 > received: 7, 1662809, 1894368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 2.479007 > measured throughput: 4705264.063588616
+Execution Time 2.479076 > buffer size: 6
+Execution Time 2.479142 > request: 8, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 2.479782 > selected QI: 13
+Execution Time 2.664237 > buffer size: 5
+Execution Time 2.869272 > received: 8, 1662809, 1836456, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 2.869341 > measured throughput: 4706048.274859207
+Execution Time 2.869407 > buffer size: 6
+Execution Time 2.869474 > request: 9, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 2.870127 > selected QI: 13
+Execution Time 3.290042 > received: 9, 1662809, 1982624, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 3.290111 > measured throughput: 4713006.684102845
+Execution Time 3.290179 > buffer size: 7
+Execution Time 3.290247 > request: 10, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 3.2909 > selected QI: 13
+Execution Time 3.666113 > buffer size: 6
+Execution Time 3.716493 > received: 10, 1662809, 2006488, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 3.716561 > measured throughput: 4706202.322247126
+Execution Time 3.716631 > buffer size: 7
+Execution Time 3.716696 > request: 11, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 3.717355 > selected QI: 13
+Execution Time 4.14191 > received: 11, 1662809, 2003760, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 4.141993 > measured throughput: 4711059.562873257
+Execution Time 4.142072 > buffer size: 8
+Execution Time 4.142147 > request: 12, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 4.142939 > selected QI: 13
+Execution Time 4.490152 > received: 12, 1662809, 1636384, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 4.490223 > measured throughput: 4700665.534473235
+Execution Time 4.490292 > buffer size: 9
+Execution Time 4.49036 > request: 13, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 4.491009 > selected QI: 13
+Execution Time 4.667978 > buffer size: 8
+Execution Time 4.864303 > received: 13, 1662809, 1759632, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 4.864368 > measured throughput: 4704350.703635324
+Execution Time 4.864434 > buffer size: 9
+Execution Time 4.864496 > request: 14, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 4.86519 > selected QI: 13
+Execution Time 5.669863 > buffer size: 8
+Execution Time 6.671711 > buffer size: 7
+Execution Time 7.673396 > buffer size: 6
+Execution Time 8.674653 > buffer size: 5
+Execution Time 9.676416 > buffer size: 4
+Execution Time 10.402789 > received: 14, 1662809, 1845896, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.402856 > measured throughput: 333290.8965958975
+Execution Time 10.402922 > buffer size: 5
+Execution Time 10.402986 > request: 15, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.403691 > selected QI: 0
+Execution Time 10.455507 > received: 15, 46980, 40224, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.45555 > measured throughput: 764710.8745012847
+Execution Time 10.455601 > buffer size: 6
+Execution Time 10.455659 > request: 16, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.456314 > selected QI: 3
+Execution Time 10.526693 > received: 16, 182366, 180968, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.526741 > measured throughput: 2544806.7488406743
+Execution Time 10.5268 > buffer size: 7
+Execution Time 10.526861 > request: 17, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.527538 > selected QI: 10
+Execution Time 10.67099 > received: 17, 808057, 676688, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.671059 > measured throughput: 4691791.955082921
+Execution Time 10.671127 > buffer size: 8
+Execution Time 10.671193 > request: 18, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.671943 > selected QI: 13
+Execution Time 10.678329 > buffer size: 7
+Execution Time 10.986801 > received: 18, 1662809, 1484048, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.986872 > measured throughput: 4700615.91058148
+Execution Time 10.986939 > buffer size: 8
+Execution Time 10.987007 > request: 19, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 10.987727 > selected QI: 13
+Execution Time 11.255551 > received: 19, 1662809, 1261872, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 11.255619 > measured throughput: 4697131.4105992755
+Execution Time 11.255685 > buffer size: 9
+Execution Time 11.25575 > request: 20, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 11.256477 > selected QI: 13
+Execution Time 11.487384 > received: 20, 1662809, 1086928, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 11.487453 > measured throughput: 4690351.987374356
+Execution Time 11.487519 > buffer size: 10
+Execution Time 11.487585 > request: 21, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 11.488375 > selected QI: 13
+Execution Time 11.68025 > buffer size: 9
+Execution Time 11.855665 > received: 21, 1662809, 1734056, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 11.855729 > measured throughput: 4709812.444504341
+Execution Time 11.855796 > buffer size: 10
+Execution Time 11.855862 > request: 22, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 11.856638 > selected QI: 13
+Execution Time 12.017751 > received: 22, 1662809, 757216, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.017821 > measured throughput: 4674362.786006501
+Execution Time 12.017889 > buffer size: 11
+Execution Time 12.017957 > request: 23, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.018764 > selected QI: 13
+Execution Time 12.165308 > received: 23, 1662809, 691304, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.165381 > measured throughput: 4688132.170249817
+Execution Time 12.165448 > buffer size: 12
+Execution Time 12.165516 > request: 24, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.166328 > selected QI: 13
+Execution Time 12.48261 > received: 24, 1662809, 1490200, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.482678 > measured throughput: 4698018.06942536
+Execution Time 12.482746 > buffer size: 13
+Execution Time 12.482814 > request: 25, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.483611 > selected QI: 13
+Execution Time 12.681482 > buffer size: 12
+Execution Time 12.878814 > received: 25, 1662809, 1862904, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.878883 > measured throughput: 4703069.911501441
+Execution Time 12.87895 > buffer size: 13
+Execution Time 12.879015 > request: 26, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 12.879843 > selected QI: 13
+Execution Time 13.296788 > received: 26, 1662809, 1968496, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 13.296871 > measured throughput: 4710566.643008816
+Execution Time 13.296948 > buffer size: 14
+Execution Time 13.297026 > request: 27, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 13.298016 > selected QI: 13
+Execution Time 13.683344 > buffer size: 13
+Execution Time 13.697374 > received: 27, 1662809, 1882520, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 13.697443 > measured throughput: 4700909.572765766
+Execution Time 13.697508 > buffer size: 14
+Execution Time 13.697574 > request: 28, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 13.698449 > selected QI: 13
+Execution Time 14.117491 > received: 28, 1662809, 1978424, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 14.117561 > measured throughput: 4710289.2169822985
+Execution Time 14.11763 > buffer size: 15
+Execution Time 14.117698 > request: 29, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 14.118569 > selected QI: 17
+Execution Time 14.685232 > buffer size: 14
+Execution Time 15.125219 > received: 29, 3841983, 4754000, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 15.12529 > measured throughput: 4718018.5598709285
+Execution Time 15.12536 > buffer size: 15
+Execution Time 15.125428 > request: 30, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 15.12631 > selected QI: 17
+Execution Time 15.687113 > buffer size: 14
+Execution Time 16.688844 > buffer size: 13
+Execution Time 17.690085 > buffer size: 12
+Execution Time 18.691347 > buffer size: 11
+Execution Time 19.692645 > buffer size: 10
+Execution Time 20.694507 > buffer size: 9
+Execution Time 21.434325 > received: 30, 3841983, 4780832, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 21.434395 > measured throughput: 757779.3271769144
+Execution Time 21.434461 > buffer size: 10
+Execution Time 21.434526 > request: 31, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 21.435425 > selected QI: 3
+Execution Time 21.508304 > received: 31, 182366, 188896, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 21.508392 > measured throughput: 2556006.827161006
+Execution Time 21.508452 > buffer size: 11
+Execution Time 21.508514 > request: 32, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 21.509341 > selected QI: 10
+Execution Time 21.696385 > buffer size: 10
+Execution Time 21.989956 > received: 32, 808057, 897016, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 21.990002 > measured throughput: 1862878.9965681105
+Execution Time 21.990061 > buffer size: 11
+Execution Time 21.990121 > request: 33, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 21.990993 > selected QI: 8
+Execution Time 22.335905 > received: 33, 537825, 575632, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 22.335954 > measured throughput: 1664329.8338427877
+Execution Time 22.336017 > buffer size: 12
+Execution Time 22.336078 > request: 34, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 22.336957 > selected QI: 7
+Execution Time 22.698258 > buffer size: 11
+Execution Time 22.787485 > received: 34, 424520, 475968, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 22.787533 > measured throughput: 1054222.685588427
+Execution Time 22.787593 > buffer size: 12
+Execution Time 22.787651 > request: 35, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 22.788594 > selected QI: 5
+Execution Time 22.86626 > received: 35, 270316, 265304, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 22.866299 > measured throughput: 3371950.931008983
+Execution Time 22.866353 > buffer size: 13
+Execution Time 22.866414 > request: 36, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 22.86733 > selected QI: 12
+Execution Time 23.170332 > received: 36, 1312787, 1430752, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 23.17041 > measured throughput: 4706017.635446757
+Execution Time 23.170483 > buffer size: 14
+Execution Time 23.170559 > request: 37, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 23.172266 > selected QI: 13
+Execution Time 23.578073 > received: 37, 1662809, 1915888, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 23.57819 > measured throughput: 4699638.411836764
+Execution Time 23.578266 > buffer size: 15
+Execution Time 23.578343 > request: 38, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 23.579497 > selected QI: 17
+Execution Time 23.699455 > buffer size: 14
+Execution Time 24.548243 > received: 38, 3841983, 4574896, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 24.548315 > measured throughput: 4716322.888825694
+Execution Time 24.548379 > buffer size: 15
+Execution Time 24.548438 > request: 39, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 24.54941 > selected QI: 17
+Execution Time 24.700692 > buffer size: 14
+Execution Time 25.517679 > received: 39, 3841983, 4572776, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 25.517745 > measured throughput: 4717421.848166657
+Execution Time 25.517811 > buffer size: 15
+Execution Time 25.517878 > request: 40, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 25.518891 > selected QI: 17
+Execution Time 25.701538 > buffer size: 14
+Execution Time 26.702793 > buffer size: 13
+Execution Time 27.704043 > buffer size: 12
+Execution Time 28.704855 > buffer size: 11
+Execution Time 29.706104 > buffer size: 10
+Execution Time 30.707302 > buffer size: 9
+Execution Time 31.708199 > buffer size: 8
+Execution Time 31.791613 > received: 40, 3841983, 4554656, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 31.791681 > measured throughput: 725976.0765576602
+Execution Time 31.791742 > buffer size: 9
+Execution Time 31.791801 > request: 41, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 31.79259 > selected QI: 3
+Execution Time 31.866805 > received: 41, 182366, 185088, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 31.866862 > measured throughput: 2464787.607062917
+Execution Time 31.866949 > buffer size: 10
+Execution Time 31.867017 > request: 42, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 31.868236 > selected QI: 10
+Execution Time 32.044253 > received: 42, 808057, 830760, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 32.044319 > measured throughput: 4684672.603973724
+Execution Time 32.044374 > buffer size: 11
+Execution Time 32.044429 > request: 43, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 32.045259 > selected QI: 13
+Execution Time 32.427838 > received: 43, 1662809, 1804648, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 32.427909 > measured throughput: 4705636.621243532
+Execution Time 32.427976 > buffer size: 12
+Execution Time 32.428043 > request: 44, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 32.429102 > selected QI: 13
+Execution Time 32.709398 > buffer size: 11
+Execution Time 32.831986 > received: 44, 1662809, 1901792, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 32.832066 > measured throughput: 4706742.837408122
+Execution Time 32.832144 > buffer size: 12
+Execution Time 32.832222 > request: 45, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 32.833467 > selected QI: 13
+Execution Time 33.250684 > received: 45, 1662809, 1970320, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 33.250745 > measured throughput: 4707310.399635044
+Execution Time 33.250808 > buffer size: 13
+Execution Time 33.250871 > request: 46, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 33.252019 > selected QI: 13
+Execution Time 33.656886 > received: 46, 1662809, 1912192, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 33.657003 > measured throughput: 4707947.292530031
+Execution Time 33.657073 > buffer size: 14
+Execution Time 33.657182 > request: 47, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 33.658322 > selected QI: 13
+Execution Time 33.710669 > buffer size: 13
+Execution Time 34.053275 > received: 47, 1662809, 1865096, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 34.053346 > measured throughput: 4707021.136599406
+Execution Time 34.053414 > buffer size: 14
+Execution Time 34.053481 > request: 48, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 34.054552 > selected QI: 13
+Execution Time 34.429275 > received: 48, 1662809, 1766304, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 34.429344 > measured throughput: 4698883.282843153
+Execution Time 34.429412 > buffer size: 15
+Execution Time 34.429478 > request: 49, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 34.430564 > selected QI: 17
+Execution Time 34.711562 > buffer size: 14
+Execution Time 35.430495 > received: 49, 3841983, 4721968, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 35.430597 > measured throughput: 4716553.726484501
+Execution Time 35.430697 > buffer size: 15
+Execution Time 35.430785 > request: 50, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 35.432625 > selected QI: 17
+Execution Time 35.712771 > buffer size: 14
+Execution Time 36.714039 > buffer size: 13
+Execution Time 37.714899 > buffer size: 12
+Execution Time 38.715503 > buffer size: 11
+Execution Time 39.715875 > buffer size: 10
+Execution Time 40.717103 > buffer size: 9
+Execution Time 41.718204 > buffer size: 8
+Execution Time 41.826334 > received: 50, 3841983, 5053656, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 41.826401 > measured throughput: 790169.6053699896
+Execution Time 41.826471 > buffer size: 9
+Execution Time 41.826538 > request: 51, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 41.827687 > selected QI: 3
+Execution Time 41.902439 > received: 51, 182366, 192000, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 41.902484 > measured throughput: 2526855.040284662
+Execution Time 41.902533 > buffer size: 10
+Execution Time 41.90259 > request: 52, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 41.903451 > selected QI: 10
+Execution Time 42.079248 > received: 52, 808057, 826560, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 42.079318 > measured throughput: 4676265.578305552
+Execution Time 42.079386 > buffer size: 11
+Execution Time 42.079453 > request: 53, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 42.080605 > selected QI: 13
+Execution Time 42.48789 > received: 53, 1662809, 1923112, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 42.487957 > measured throughput: 4707292.589556778
+Execution Time 42.488031 > buffer size: 12
+Execution Time 42.488096 > request: 54, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 42.489531 > selected QI: 13
+Execution Time 42.718669 > buffer size: 11
+Execution Time 42.89519 > received: 54, 1662809, 1912368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 42.895259 > measured throughput: 4696421.272258737
+Execution Time 42.895326 > buffer size: 12
+Execution Time 42.895392 > request: 55, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 42.896573 > selected QI: 13
+Execution Time 43.340019 > received: 55, 1662809, 2093896, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 43.340087 > measured throughput: 4708248.757614699
+Execution Time 43.340152 > buffer size: 13
+Execution Time 43.340219 > request: 56, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 43.341395 > selected QI: 13
+Execution Time 43.720536 > buffer size: 12
+Execution Time 43.796717 > received: 56, 1662809, 2149832, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 43.796799 > measured throughput: 4708193.240054323
+Execution Time 43.796877 > buffer size: 13
+Execution Time 43.796952 > request: 57, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 43.798561 > selected QI: 13
+Execution Time 44.055517 > received: 57, 1662809, 1213032, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 44.055594 > measured throughput: 4689268.685661412
+Execution Time 44.055672 > buffer size: 14
+Execution Time 44.055749 > request: 58, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 44.056756 > selected QI: 13
+Execution Time 44.216849 > received: 58, 1662809, 755368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 44.216919 > measured throughput: 4685606.868970632
+Execution Time 44.216985 > buffer size: 15
+Execution Time 44.217053 > request: 59, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 44.218427 > selected QI: 17
+Execution Time 44.689967 > received: 59, 3841983, 2226480, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 44.69004 > measured throughput: 4706939.976130713
+Execution Time 44.690113 > buffer size: 16
+Execution Time 44.69018 > request: 60, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 44.69169 > selected QI: 17
+Execution Time 44.721511 > buffer size: 15
+Execution Time 45.043687 > received: 60, 3841983, 1661680, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 45.043756 > measured throughput: 4699185.527502357
+Execution Time 45.043826 > buffer size: 16
+Execution Time 45.043894 > request: 61, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 45.045215 > selected QI: 17
+Execution Time 45.723364 > buffer size: 15
+Execution Time 46.72461 > buffer size: 14
+Execution Time 47.72487 > buffer size: 13
+Execution Time 48.726178 > buffer size: 12
+Execution Time 49.727411 > buffer size: 11
+Execution Time 50.72884 > buffer size: 10
+Execution Time 50.821824 > received: 61, 3841983, 2747808, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 50.821897 > measured throughput: 475560.6397663618
+Execution Time 50.821963 > buffer size: 11
+Execution Time 50.822028 > request: 62, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 50.823286 > selected QI: 1
+Execution Time 50.871895 > received: 62, 91917, 76568, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 50.871938 > measured throughput: 1532983.337393261
+Execution Time 50.871988 > buffer size: 12
+Execution Time 50.872046 > request: 63, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 50.873348 > selected QI: 7
+Execution Time 50.949497 > received: 63, 424520, 327720, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 50.949543 > measured throughput: 4227118.92596246
+Execution Time 50.949599 > buffer size: 13
+Execution Time 50.94966 > request: 64, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 50.95098 > selected QI: 13
+Execution Time 51.274129 > received: 64, 1662809, 1525672, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 51.274193 > measured throughput: 4700668.321165915
+Execution Time 51.274255 > buffer size: 14
+Execution Time 51.274319 > request: 65, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 51.275629 > selected QI: 13
+Execution Time 51.584262 > received: 65, 1662809, 1454112, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 51.584332 > measured throughput: 4689999.58489218
+Execution Time 51.584403 > buffer size: 15
+Execution Time 51.584471 > request: 66, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 51.58583 > selected QI: 17
+Execution Time 51.73002 > buffer size: 14
+Execution Time 52.509976 > received: 66, 3841983, 4361856, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 52.510045 > measured throughput: 4712419.044873005
+Execution Time 52.510111 > buffer size: 15
+Execution Time 52.510177 > request: 67, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 52.511548 > selected QI: 17
+Execution Time 52.731897 > buffer size: 14
+Execution Time 53.522528 > received: 67, 3841983, 4771752, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 53.522597 > measured throughput: 4713053.436217054
+Execution Time 53.522664 > buffer size: 15
+Execution Time 53.522732 > request: 68, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 53.524073 > selected QI: 17
+Execution Time 53.73376 > buffer size: 14
+Execution Time 54.375526 > received: 68, 3841983, 4021176, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 54.375593 > measured throughput: 4714730.697912105
+Execution Time 54.375659 > buffer size: 15
+Execution Time 54.375725 > request: 69, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 54.377078 > selected QI: 17
+Execution Time 54.735001 > buffer size: 14
+Execution Time 55.158049 > received: 69, 3841983, 3687928, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 55.158153 > measured throughput: 4713228.354729344
+Execution Time 55.15822 > buffer size: 15
+Execution Time 55.158284 > request: 70, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 55.159668 > selected QI: 17
+Execution Time 55.736255 > buffer size: 14
+Execution Time 56.738176 > buffer size: 13
+Execution Time 57.740056 > buffer size: 12
+Execution Time 58.741319 > buffer size: 11
+Execution Time 59.743227 > buffer size: 10
+Execution Time 60.745122 > buffer size: 9
+Execution Time 61.215573 > received: 70, 3841983, 3771280, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.215641 > measured throughput: 622591.3804682266
+Execution Time 61.215707 > buffer size: 10
+Execution Time 61.215772 > request: 71, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.217174 > selected QI: 2
+Execution Time 61.270859 > received: 71, 135410, 107864, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.270902 > measured throughput: 1955238.3398912335
+Execution Time 61.270952 > buffer size: 11
+Execution Time 61.271011 > request: 72, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.272425 > selected QI: 9
+Execution Time 61.49231 > received: 72, 620705, 604232, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.492356 > measured throughput: 2729446.921192475
+Execution Time 61.492413 > buffer size: 12
+Execution Time 61.492473 > request: 73, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.493847 > selected QI: 10
+Execution Time 61.745745 > buffer size: 11
+Execution Time 61.83917 > received: 73, 808057, 745408, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.839218 > measured throughput: 2149544.0303419232
+Execution Time 61.839272 > buffer size: 12
+Execution Time 61.839328 > request: 74, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 61.840893 > selected QI: 9
+Execution Time 62.05009 > received: 74, 620705, 633512, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 62.050146 > measured throughput: 3004628.762287611
+Execution Time 62.050214 > buffer size: 13
+Execution Time 62.050288 > request: 75, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 62.052036 > selected QI: 11
+Execution Time 62.434621 > received: 75, 1071529, 1234712, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 62.43467 > measured throughput: 3211861.2887210324
+Execution Time 62.434732 > buffer size: 14
+Execution Time 62.434845 > request: 76, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 62.436287 > selected QI: 12
+Execution Time 62.734865 > received: 76, 1312787, 1406432, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 62.734986 > measured throughput: 4684641.343788734
+Execution Time 62.735052 > buffer size: 15
+Execution Time 62.735114 > request: 77, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 62.73659 > selected QI: 17
+Execution Time 62.746943 > buffer size: 14
+Execution Time 63.748207 > buffer size: 13
+Execution Time 63.749056 > received: 77, 3841983, 4781784, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 63.749105 > measured throughput: 4715663.963776872
+Execution Time 63.749164 > buffer size: 14
+Execution Time 63.749225 > request: 78, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 63.750726 > selected QI: 13
+Execution Time 64.204759 > received: 78, 1662809, 2140816, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 64.204869 > measured throughput: 4698099.492726161
+Execution Time 64.204937 > buffer size: 15
+Execution Time 64.205004 > request: 79, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 64.206869 > selected QI: 17
+Execution Time 64.750016 > buffer size: 14
+Execution Time 65.263696 > received: 79, 3841983, 4988008, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 65.263764 > measured throughput: 4711022.330296788
+Execution Time 65.263831 > buffer size: 15
+Execution Time 65.263898 > request: 80, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 65.265492 > selected QI: 17
+Execution Time 65.751778 > buffer size: 14
+Execution Time 66.753648 > buffer size: 13
+Execution Time 67.75537 > buffer size: 12
+Execution Time 68.756594 > buffer size: 11
+Execution Time 69.758152 > buffer size: 10
+Execution Time 70.759391 > buffer size: 9
+Execution Time 71.760597 > buffer size: 8
+Execution Time 71.788309 > received: 80, 3841983, 5519152, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 71.788393 > measured throughput: 845908.1492679868
+Execution Time 71.788477 > buffer size: 9
+Execution Time 71.78855 > request: 81, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 71.79041 > selected QI: 4
+Execution Time 72.118463 > received: 81, 226106, 201400, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.11851 > measured throughput: 610305.8802442986
+Execution Time 72.118566 > buffer size: 10
+Execution Time 72.118628 > request: 82, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.120239 > selected QI: 2
+Execution Time 72.191306 > received: 82, 135410, 145464, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.19136 > measured throughput: 1999166.354326085
+Execution Time 72.191483 > buffer size: 11
+Execution Time 72.191593 > request: 83, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.193503 > selected QI: 9
+Execution Time 72.334104 > received: 83, 620705, 661464, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.334168 > measured throughput: 4637535.62286275
+Execution Time 72.33424 > buffer size: 12
+Execution Time 72.334307 > request: 84, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.335984 > selected QI: 13
+Execution Time 72.634849 > received: 84, 1662809, 1410776, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.634933 > measured throughput: 4692251.185746591
+Execution Time 72.635018 > buffer size: 13
+Execution Time 72.635095 > request: 85, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.637118 > selected QI: 13
+Execution Time 72.76151 > buffer size: 12
+Execution Time 72.856958 > received: 85, 1662809, 1037904, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.857029 > measured throughput: 4675742.220766761
+Execution Time 72.85709 > buffer size: 13
+Execution Time 72.857151 > request: 86, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 72.858503 > selected QI: 13
+Execution Time 73.106654 > received: 86, 1662809, 1171520, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 73.106734 > measured throughput: 4693328.752362134
+Execution Time 73.106816 > buffer size: 14
+Execution Time 73.106899 > request: 87, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 73.109401 > selected QI: 13
+Execution Time 73.398714 > received: 87, 1662809, 1366216, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 73.398774 > measured throughput: 4680167.401816877
+Execution Time 73.398842 > buffer size: 15
+Execution Time 73.398907 > request: 88, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 73.400597 > selected QI: 16
+Execution Time 73.762944 > buffer size: 14
+Execution Time 73.973867 > received: 88, 3305118, 2707312, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 73.973941 > measured throughput: 4707813.542085246
+Execution Time 73.974003 > buffer size: 15
+Execution Time 73.974079 > request: 89, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 73.976398 > selected QI: 16
+Execution Time 74.369779 > received: 89, 3305118, 1857272, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 74.369879 > measured throughput: 4692015.956581859
+Execution Time 74.369968 > buffer size: 16
+Execution Time 74.370067 > request: 90, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 74.372919 > selected QI: 17
+Execution Time 74.764146 > buffer size: 15
+Execution Time 74.99916 > received: 90, 3841983, 2957144, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 74.999261 > measured throughput: 4699523.589887183
+Execution Time 74.999352 > buffer size: 16
+Execution Time 74.999429 > request: 91, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 75.001663 > selected QI: 17
+Execution Time 75.765259 > buffer size: 15
+Execution Time 76.766494 > buffer size: 14
+Execution Time 77.767751 > buffer size: 13
+Execution Time 78.768216 > buffer size: 12
+Execution Time 79.769409 > buffer size: 11
+Execution Time 80.77068 > buffer size: 10
+Execution Time 81.21035 > received: 91, 3841983, 3451424, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.210443 > measured throughput: 555690.358895858
+Execution Time 81.210525 > buffer size: 11
+Execution Time 81.210628 > request: 92, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.212909 > selected QI: 2
+Execution Time 81.438277 > received: 92, 135410, 136192, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.43833 > measured throughput: 597954.9494647888
+Execution Time 81.438397 > buffer size: 12
+Execution Time 81.438468 > request: 93, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.440635 > selected QI: 2
+Execution Time 81.513015 > received: 93, 135410, 118824, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.513079 > measured throughput: 1591849.170674093
+Execution Time 81.513164 > buffer size: 13
+Execution Time 81.51325 > request: 94, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.516078 > selected QI: 7
+Execution Time 81.586744 > received: 94, 424520, 288792, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.586791 > measured throughput: 3924604.465913321
+Execution Time 81.586843 > buffer size: 14
+Execution Time 81.586899 > request: 95, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.588457 > selected QI: 13
+Execution Time 81.771534 > buffer size: 13
+Execution Time 81.836013 > received: 95, 1662809, 1168832, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.836085 > measured throughput: 4690049.276778678
+Execution Time 81.836147 > buffer size: 14
+Execution Time 81.836209 > request: 96, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 81.837601 > selected QI: 13
+Execution Time 82.153971 > received: 96, 1662809, 1493464, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 82.154077 > measured throughput: 4697890.8443571115
+Execution Time 82.154158 > buffer size: 15
+Execution Time 82.154233 > request: 97, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 82.156665 > selected QI: 16
+Execution Time 82.772756 > buffer size: 14
+Execution Time 82.815619 > received: 97, 3305118, 3111624, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 82.8157 > measured throughput: 4703835.172652163
+Execution Time 82.815781 > buffer size: 15
+Execution Time 82.815856 > request: 98, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 82.818045 > selected QI: 16
+Execution Time 83.315413 > received: 98, 3305118, 2348120, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 83.315489 > measured throughput: 4699315.33532981
+Execution Time 83.315556 > buffer size: 16
+Execution Time 83.315623 > request: 99, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 83.317226 > selected QI: 16
+Execution Time 83.708294 > received: 99, 3305118, 1843184, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 83.708362 > measured throughput: 4692743.7305878615
+Execution Time 83.708428 > buffer size: 17
+Execution Time 83.708494 > request: 100, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 83.71041 > selected QI: 16
+Execution Time 83.77472 > buffer size: 16
+Execution Time 84.235877 > received: 100, 3305118, 2481104, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 84.235946 > measured throughput: 4703632.572555689
+Execution Time 84.236017 > buffer size: 17
+Execution Time 84.236083 > request: 101, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 84.238035 > selected QI: 16
+Execution Time 84.77601 > buffer size: 16
+Execution Time 84.864947 > received: 101, 3305118, 2960624, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 84.865016 > measured throughput: 4707115.155173152
+Execution Time 84.865082 > buffer size: 17
+Execution Time 84.865147 > request: 102, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 84.867112 > selected QI: 16
+Execution Time 85.777838 > buffer size: 16
+Execution Time 86.778215 > buffer size: 15
+Execution Time 87.780076 > buffer size: 14
+Execution Time 88.78175 > buffer size: 13
+Execution Time 89.782996 > buffer size: 12
+Execution Time 90.784242 > buffer size: 11
+Execution Time 90.918332 > received: 102, 3305118, 3787000, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 90.918402 > measured throughput: 625610.3504634424
+Execution Time 90.918472 > buffer size: 12
+Execution Time 90.918539 > request: 103, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 90.920549 > selected QI: 2
+Execution Time 91.061001 > received: 103, 135410, 112272, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.061058 > measured throughput: 787576.3451249885
+Execution Time 91.061129 > buffer size: 13
+Execution Time 91.061215 > request: 104, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.063423 > selected QI: 3
+Execution Time 91.164759 > received: 104, 182366, 168328, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.164848 > measured throughput: 1623632.1076820507
+Execution Time 91.164919 > buffer size: 14
+Execution Time 91.164992 > request: 105, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.167367 > selected QI: 7
+Execution Time 91.267158 > received: 105, 424520, 350008, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.267207 > measured throughput: 3422925.27886424
+Execution Time 91.267262 > buffer size: 15
+Execution Time 91.267318 > request: 106, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.268919 > selected QI: 15
+Execution Time 91.784855 > buffer size: 14
+Execution Time 91.912241 > received: 106, 2617284, 2589776, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.912289 > measured throughput: 4015153.0906674596
+Execution Time 91.912345 > buffer size: 15
+Execution Time 91.912398 > request: 107, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 91.914331 > selected QI: 16
+Execution Time 92.408727 > received: 107, 3305118, 2334664, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 92.408797 > measured throughput: 4702948.769375517
+Execution Time 92.408867 > buffer size: 16
+Execution Time 92.408937 > request: 108, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 92.411075 > selected QI: 16
+Execution Time 92.786032 > buffer size: 15
+Execution Time 92.90412 > received: 108, 3305118, 2327912, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 92.904201 > measured throughput: 4699998.780932668
+Execution Time 92.904278 > buffer size: 16
+Execution Time 92.904356 > request: 109, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 92.9066 > selected QI: 16
+Execution Time 93.435368 > received: 109, 3305118, 2497096, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 93.435464 > measured throughput: 4701328.33646037
+Execution Time 93.435561 > buffer size: 17
+Execution Time 93.435648 > request: 110, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 93.43793 > selected QI: 16
+Execution Time 93.787222 > buffer size: 16
+Execution Time 93.861247 > received: 110, 3305118, 1998664, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 93.861317 > measured throughput: 4694863.802584832
+Execution Time 93.861386 > buffer size: 17
+Execution Time 93.861485 > request: 111, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 93.863743 > selected QI: 16
+Execution Time 94.234913 > received: 111, 3305118, 1752416, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 94.234994 > measured throughput: 4691001.124338845
+Execution Time 94.235073 > buffer size: 18
+Execution Time 94.235147 > request: 112, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 94.237124 > selected QI: 16
+Execution Time 94.788182 > buffer size: 17
+Execution Time 94.791082 > received: 112, 3305118, 2616184, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 94.791134 > measured throughput: 4705226.621341033
+Execution Time 94.791193 > buffer size: 18
+Execution Time 94.791255 > request: 113, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 94.793221 > selected QI: 16
+Execution Time 95.788624 > buffer size: 17
+Execution Time 96.789856 > buffer size: 16
+Execution Time 97.791105 > buffer size: 15
+Execution Time 98.791546 > buffer size: 14
+Execution Time 99.792745 > buffer size: 13
+Execution Time 100.758299 > received: 113, 3305118, 3411112, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 100.758368 > measured throughput: 571648.8284362041
+Execution Time 100.758436 > buffer size: 14
+Execution Time 100.758503 > request: 114, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 100.760734 > selected QI: 2
+Execution Time 100.793955 > buffer size: 13
+Execution Time 100.834358 > received: 114, 135410, 131288, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 100.834409 > measured throughput: 1728784.7399806243
+Execution Time 100.834467 > buffer size: 14
+Execution Time 100.834529 > request: 115, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 100.836908 > selected QI: 8
+Execution Time 101.015803 > received: 115, 537825, 527984, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 101.015857 > measured throughput: 2911252.1341937957
+Execution Time 101.015922 > buffer size: 15
+Execution Time 101.015993 > request: 116, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 101.018403 > selected QI: 14
+Execution Time 101.521245 > received: 116, 2234145, 2373616, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 101.521323 > measured throughput: 4696825.601878481
+Execution Time 101.521399 > buffer size: 16
+Execution Time 101.521519 > request: 117, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 101.523369 > selected QI: 16
+Execution Time 101.794836 > buffer size: 15
+Execution Time 102.348719 > received: 117, 3305118, 3897656, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 102.348789 > measured throughput: 4710981.355023111
+Execution Time 102.348859 > buffer size: 16
+Execution Time 102.348926 > request: 118, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 102.352239 > selected QI: 16
+Execution Time 102.796077 > buffer size: 15
+Execution Time 103.124985 > received: 118, 3305118, 3650008, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 103.12506 > measured throughput: 4702590.392273259
+Execution Time 103.125134 > buffer size: 16
+Execution Time 103.125203 > request: 119, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 103.128075 > selected QI: 16
+Execution Time 103.797285 > buffer size: 15
+Execution Time 103.947534 > received: 119, 3305118, 3869872, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 103.947644 > measured throughput: 4705156.806486618
+Execution Time 103.94773 > buffer size: 16
+Execution Time 103.947815 > request: 120, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 103.951225 > selected QI: 16
+Execution Time 104.798219 > buffer size: 15
+Execution Time 104.833703 > received: 120, 3305118, 4167368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 104.833796 > measured throughput: 4703458.013083259
+Execution Time 104.833902 > buffer size: 16
+Execution Time 104.833993 > request: 121, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 104.838792 > selected QI: 16
+Execution Time 105.799443 > buffer size: 15
+Execution Time 106.800706 > buffer size: 14
+Execution Time 107.801524 > buffer size: 13
+Execution Time 108.802792 > buffer size: 12
+Execution Time 109.804057 > buffer size: 11
+Execution Time 110.805922 > buffer size: 10
+Execution Time 110.85346 > received: 121, 3305118, 3615984, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 110.853523 > measured throughput: 600703.5508993695
+Execution Time 110.853587 > buffer size: 11
+Execution Time 110.853656 > request: 122, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 110.856148 > selected QI: 2
+Execution Time 110.944297 > received: 122, 135410, 129752, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 110.944345 > measured throughput: 1430136.169445987
+Execution Time 110.944401 > buffer size: 12
+Execution Time 110.944463 > request: 123, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 110.94695 > selected QI: 7
+Execution Time 111.235575 > received: 123, 424520, 473864, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 111.235624 > measured throughput: 1627324.9209146842
+Execution Time 111.235685 > buffer size: 13
+Execution Time 111.235765 > request: 124, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 111.237697 > selected QI: 7
+Execution Time 111.34379 > received: 124, 424520, 497544, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 111.343857 > measured throughput: 4601740.2658542255
+Execution Time 111.343921 > buffer size: 14
+Execution Time 111.343992 > request: 125, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 111.346396 > selected QI: 13
+Execution Time 111.683753 > received: 125, 1662809, 1592744, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 111.683835 > measured throughput: 4686212.252182043
+Execution Time 111.683908 > buffer size: 15
+Execution Time 111.683981 > request: 126, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 111.687179 > selected QI: 16
+Execution Time 111.807164 > buffer size: 14
+Execution Time 112.331277 > received: 126, 3305118, 3041776, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 112.331339 > measured throughput: 4698485.882364222
+Execution Time 112.3314 > buffer size: 15
+Execution Time 112.331487 > request: 127, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 112.334118 > selected QI: 16
+Execution Time 112.808839 > buffer size: 14
+Execution Time 113.091796 > received: 127, 3305118, 3575056, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 113.09186 > measured throughput: 4701509.7226638375
+Execution Time 113.091922 > buffer size: 15
+Execution Time 113.091988 > request: 128, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 113.094582 > selected QI: 16
+Execution Time 113.810063 > buffer size: 14
+Execution Time 113.926997 > received: 128, 3305118, 3931184, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 113.92708 > measured throughput: 4707306.953302931
+Execution Time 113.927157 > buffer size: 15
+Execution Time 113.927265 > request: 129, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 113.93096 > selected QI: 16
+Execution Time 114.68994 > received: 129, 3305118, 3581192, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 114.690006 > measured throughput: 4694817.068740657
+Execution Time 114.690072 > buffer size: 16
+Execution Time 114.690141 > request: 130, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 114.692822 > selected QI: 16
+Execution Time 114.81137 > buffer size: 15
+Execution Time 115.42786 > received: 130, 3305118, 3471160, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 115.427938 > measured throughput: 4704537.217243553
+Execution Time 115.428017 > buffer size: 16
+Execution Time 115.428111 > request: 131, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 115.43249 > selected QI: 16
+Execution Time 115.812626 > buffer size: 15
+Execution Time 116.813896 > buffer size: 14
+Execution Time 117.814881 > buffer size: 13
+Execution Time 118.816148 > buffer size: 12
+Execution Time 119.817369 > buffer size: 11
+Execution Time 120.818646 > buffer size: 10
+Execution Time 121.470794 > received: 131, 3305118, 3752528, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 121.470873 > measured throughput: 620989.4274221817
+Execution Time 121.47095 > buffer size: 11
+Execution Time 121.471026 > request: 132, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 121.474268 > selected QI: 2
+Execution Time 121.549648 > received: 132, 135410, 142472, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 121.549706 > measured throughput: 1809810.2482456814
+Execution Time 121.549777 > buffer size: 12
+Execution Time 121.54985 > request: 133, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 121.553292 > selected QI: 8
+Execution Time 121.674457 > received: 133, 537825, 571360, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 121.67453 > measured throughput: 4581229.510526785
+Execution Time 121.674602 > buffer size: 13
+Execution Time 121.674685 > request: 134, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 121.677994 > selected QI: 13
+Execution Time 121.819903 > buffer size: 12
+Execution Time 122.133453 > received: 134, 1662809, 2057480, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 122.133509 > measured throughput: 4483881.365291028
+Execution Time 122.133574 > buffer size: 13
+Execution Time 122.133658 > request: 135, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 122.137014 > selected QI: 13
+Execution Time 122.581656 > received: 135, 1662809, 2099712, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 122.581772 > measured throughput: 4685249.380714345
+Execution Time 122.581833 > buffer size: 14
+Execution Time 122.581898 > request: 136, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 122.584566 > selected QI: 13
+Execution Time 122.821406 > buffer size: 13
+Execution Time 123.021722 > received: 136, 1662809, 2062880, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 123.0218 > measured throughput: 4689035.127505499
+Execution Time 123.021874 > buffer size: 14
+Execution Time 123.02195 > request: 137, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 123.025369 > selected QI: 13
+Execution Time 123.432264 > received: 137, 1662809, 1920488, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 123.432332 > measured throughput: 4679280.0671292385
+Execution Time 123.432399 > buffer size: 15
+Execution Time 123.432465 > request: 138, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 123.435312 > selected QI: 16
+Execution Time 123.823349 > buffer size: 14
+Execution Time 124.290962 > received: 138, 3305118, 4040896, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 124.291032 > measured throughput: 4706373.773570843
+Execution Time 124.291102 > buffer size: 15
+Execution Time 124.291171 > request: 139, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 124.294046 > selected QI: 16
+Execution Time 124.824616 > buffer size: 14
+Execution Time 125.152128 > received: 139, 3305118, 4052184, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 125.152198 > measured throughput: 4706023.792307659
+Execution Time 125.152265 > buffer size: 15
+Execution Time 125.152332 > request: 140, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 125.155237 > selected QI: 16
+Execution Time 125.825858 > buffer size: 14
+Execution Time 126.827075 > buffer size: 13
+Execution Time 127.828404 > buffer size: 12
+Execution Time 128.829584 > buffer size: 11
+Execution Time 129.830815 > buffer size: 10
+Execution Time 130.832092 > buffer size: 9
+Execution Time 131.268355 > received: 140, 3305118, 4034976, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.268435 > measured throughput: 659726.1589329548
+Execution Time 131.268506 > buffer size: 10
+Execution Time 131.268581 > request: 141, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.273223 > selected QI: 2
+Execution Time 131.355051 > received: 141, 135410, 149952, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.355108 > measured throughput: 1732153.517835192
+Execution Time 131.355179 > buffer size: 11
+Execution Time 131.35526 > request: 142, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.358421 > selected QI: 8
+Execution Time 131.478492 > received: 142, 537825, 566472, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.478559 > measured throughput: 4592763.452885997
+Execution Time 131.478625 > buffer size: 12
+Execution Time 131.478692 > request: 143, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.481987 > selected QI: 13
+Execution Time 131.833305 > buffer size: 11
+Execution Time 131.965064 > received: 143, 1662809, 2279824, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.965144 > measured throughput: 4686319.381586654
+Execution Time 131.96522 > buffer size: 12
+Execution Time 131.965294 > request: 144, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 131.96894 > selected QI: 13
+Execution Time 132.37533 > received: 144, 1662809, 1919280, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 132.375402 > measured throughput: 4679455.905136106
+Execution Time 132.375471 > buffer size: 13
+Execution Time 132.375539 > request: 145, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 132.378732 > selected QI: 13
+Execution Time 132.755253 > received: 145, 1662809, 1777656, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 132.755333 > measured throughput: 4680167.86214924
+Execution Time 132.755408 > buffer size: 14
+Execution Time 132.755487 > request: 146, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 132.759242 > selected QI: 13
+Execution Time 132.834556 > buffer size: 13
+Execution Time 133.100663 > received: 146, 1662809, 1612024, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 133.100726 > measured throughput: 4668710.647189792
+Execution Time 133.10079 > buffer size: 14
+Execution Time 133.100857 > request: 147, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 133.104 > selected QI: 13
+Execution Time 133.457577 > received: 147, 1662809, 1669368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 133.457645 > measured throughput: 4678411.3071711315
+Execution Time 133.457716 > buffer size: 15
+Execution Time 133.457786 > request: 148, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 133.460921 > selected QI: 16
+Execution Time 133.834853 > buffer size: 14
+Execution Time 134.17829 > received: 148, 3305118, 3387488, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 134.178354 > measured throughput: 4700884.673828473
+Execution Time 134.178413 > buffer size: 15
+Execution Time 134.178467 > request: 149, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 134.180885 > selected QI: 16
+Execution Time 134.836062 > buffer size: 14
+Execution Time 134.856314 > received: 149, 3305118, 3189416, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 134.856414 > measured throughput: 4704372.33298755
+Execution Time 134.856515 > buffer size: 15
+Execution Time 134.856608 > request: 150, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 134.86109 > selected QI: 16
+Execution Time 135.837318 > buffer size: 14
+Execution Time 136.839209 > buffer size: 13
+Execution Time 137.840434 > buffer size: 12
+Execution Time 138.84156 > buffer size: 11
+Execution Time 139.842781 > buffer size: 10
+Execution Time 140.834973 > received: 150, 3305118, 3386336, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 140.835054 > measured throughput: 566419.5046003592
+Execution Time 140.835133 > buffer size: 11
+Execution Time 140.835212 > request: 151, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 140.839091 > selected QI: 2
+Execution Time 140.843977 > buffer size: 10
+Execution Time 140.922714 > received: 151, 135410, 125904, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 140.922776 > measured throughput: 1437126.224229695
+Execution Time 140.92284 > buffer size: 11
+Execution Time 140.922912 > request: 152, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 140.92764 > selected QI: 7
+Execution Time 141.025903 > received: 152, 424520, 463256, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 141.025962 > measured throughput: 4493796.201914371
+Execution Time 141.026021 > buffer size: 12
+Execution Time 141.026083 > request: 153, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 141.029569 > selected QI: 13
+Execution Time 141.420032 > received: 153, 1662809, 1843408, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 141.42013 > measured throughput: 4677794.547029131
+Execution Time 141.420207 > buffer size: 13
+Execution Time 141.420288 > request: 154, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 141.423204 > selected QI: 13
+Execution Time 141.84485 > buffer size: 12
+Execution Time 141.847312 > received: 154, 1662809, 2002168, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 141.847403 > measured throughput: 4687179.374646775
+Execution Time 141.847482 > buffer size: 13
+Execution Time 141.84756 > request: 155, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 141.852159 > selected QI: 13
+Execution Time 142.214688 > received: 155, 1662809, 1711696, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 142.214827 > measured throughput: 4660116.341519336
+Execution Time 142.214913 > buffer size: 14
+Execution Time 142.215 > request: 156, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 142.219462 > selected QI: 13
+Execution Time 142.543098 > received: 156, 1662809, 1528176, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 142.543167 > measured throughput: 4656078.063343955
+Execution Time 142.543225 > buffer size: 15
+Execution Time 142.543287 > request: 157, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 142.546668 > selected QI: 16
+Execution Time 142.846077 > buffer size: 14
+Execution Time 143.17071 > received: 157, 3305118, 2947768, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 143.170779 > measured throughput: 4697427.892074906
+Execution Time 143.170841 > buffer size: 15
+Execution Time 143.17091 > request: 158, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 143.174448 > selected QI: 16
+Execution Time 143.70746 > received: 158, 3305118, 2516952, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 143.707539 > measured throughput: 4689949.789093775
+Execution Time 143.707599 > buffer size: 16
+Execution Time 143.707661 > request: 159, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 143.711207 > selected QI: 16
+Execution Time 143.847343 > buffer size: 15
+Execution Time 144.347955 > received: 159, 3305118, 3006880, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 144.348024 > measured throughput: 4695365.570899404
+Execution Time 144.348116 > buffer size: 16
+Execution Time 144.348195 > request: 160, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 144.352066 > selected QI: 16
+Execution Time 144.848849 > buffer size: 15
+Execution Time 145.850109 > buffer size: 14
+Execution Time 146.851291 > buffer size: 13
+Execution Time 147.85258 > buffer size: 12
+Execution Time 148.853817 > buffer size: 11
+Execution Time 149.854887 > buffer size: 10
+Execution Time 150.841625 > received: 160, 3305118, 3302192, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 150.841713 > measured throughput: 508533.64998122025
+Execution Time 150.841777 > buffer size: 11
+Execution Time 150.841838 > request: 161, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 150.845164 > selected QI: 2
+Execution Time 150.856141 > buffer size: 10
+Execution Time 150.93496 > received: 161, 135410, 138040, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 150.935006 > measured throughput: 1481111.7479678534
+Execution Time 150.935064 > buffer size: 11
+Execution Time 150.935128 > request: 162, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 150.937606 > selected QI: 7
+Execution Time 151.063624 > received: 162, 424520, 413216, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 151.063684 > measured throughput: 3213523.951182474
+Execution Time 151.06377 > buffer size: 12
+Execution Time 151.063853 > request: 163, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 151.069541 > selected QI: 12
+Execution Time 151.39972 > received: 163, 1312787, 1559048, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 151.399785 > measured throughput: 4640361.091957099
+Execution Time 151.399849 > buffer size: 13
+Execution Time 151.399911 > request: 164, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 151.403472 > selected QI: 13
+Execution Time 151.735722 > received: 164, 1662809, 1568832, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 151.735782 > measured throughput: 4670510.440997004
+Execution Time 151.735851 > buffer size: 14
+Execution Time 151.735912 > request: 165, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 151.740442 > selected QI: 13
+Execution Time 151.857704 > buffer size: 13
+Execution Time 152.131038 > received: 165, 1662809, 1844240, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 152.131112 > measured throughput: 4666248.017335729
+Execution Time 152.131185 > buffer size: 14
+Execution Time 152.131252 > request: 166, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 152.135668 > selected QI: 13
+Execution Time 152.519008 > received: 166, 1662809, 1810024, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 152.519089 > measured throughput: 4666573.527222394
+Execution Time 152.519168 > buffer size: 15
+Execution Time 152.519256 > request: 167, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 152.523882 > selected QI: 16
+Execution Time 152.858209 > buffer size: 14
+Execution Time 153.142263 > received: 167, 3305118, 2920328, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 153.142337 > measured throughput: 4686617.157857091
+Execution Time 153.142401 > buffer size: 15
+Execution Time 153.142473 > request: 168, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 153.146438 > selected QI: 16
+Execution Time 153.574016 > received: 168, 3305118, 2018952, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 153.574101 > measured throughput: 4677109.54846827
+Execution Time 153.574181 > buffer size: 16
+Execution Time 153.57426 > request: 169, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 153.57816 > selected QI: 16
+Execution Time 153.85945 > buffer size: 15
+Execution Time 154.317284 > received: 169, 3305118, 3490576, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 154.317391 > measured throughput: 4696864.1711497065
+Execution Time 154.317503 > buffer size: 16
+Execution Time 154.317613 > request: 170, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 154.323711 > selected QI: 16
+Execution Time 154.860649 > buffer size: 15
+Execution Time 155.200225 > received: 170, 3305118, 4139544, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 155.200295 > measured throughput: 4689428.713452219
+Execution Time 155.200361 > buffer size: 16
+Execution Time 155.200423 > request: 171, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 155.203312 > selected QI: 16
+Execution Time 155.861947 > buffer size: 15
+Execution Time 156.863162 > buffer size: 14
+Execution Time 157.864453 > buffer size: 13
+Execution Time 158.865167 > buffer size: 12
+Execution Time 159.866386 > buffer size: 11
+Execution Time 160.557821 > received: 171, 3305118, 1185080, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 160.557897 > measured throughput: 221199.84751547116
+Execution Time 160.557972 > buffer size: 12
+Execution Time 160.558045 > request: 172, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 160.562517 > selected QI: 0
+Execution Time 160.613004 > received: 172, 46980, 48648, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 160.613054 > measured throughput: 883714.0535517343
+Execution Time 160.613113 > buffer size: 13
+Execution Time 160.613183 > request: 173, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 160.617916 > selected QI: 4
+Execution Time 160.687618 > received: 173, 226106, 237256, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 160.687677 > measured throughput: 3183456.887265049
+Execution Time 160.687746 > buffer size: 14
+Execution Time 160.687816 > request: 174, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 160.690567 > selected QI: 12
+Execution Time 160.867774 > buffer size: 13
+Execution Time 161.013062 > received: 174, 1312787, 1089392, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 161.013113 > measured throughput: 3348523.3455301053
+Execution Time 161.013173 > buffer size: 14
+Execution Time 161.01323 > request: 175, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 161.016531 > selected QI: 12
+Execution Time 161.386977 > received: 175, 1312787, 1156440, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 161.387045 > measured throughput: 3093375.9541682107
+Execution Time 161.387133 > buffer size: 15
+Execution Time 161.387281 > request: 176, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 161.392162 > selected QI: 15
+Execution Time 161.868145 > buffer size: 14
+Execution Time 161.98473 > received: 176, 2617284, 2796352, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 161.984844 > measured throughput: 4678903.63079425
+Execution Time 161.98491 > buffer size: 15
+Execution Time 161.984973 > request: 177, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 161.98904 > selected QI: 16
+Execution Time 162.771648 > received: 177, 3305118, 3697720, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 162.771715 > measured throughput: 4699836.081512252
+Execution Time 162.77179 > buffer size: 16
+Execution Time 162.77185 > request: 178, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 162.776343 > selected QI: 16
+Execution Time 162.869333 > buffer size: 15
+Execution Time 163.648262 > received: 178, 3305118, 4119328, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 163.648335 > measured throughput: 4699665.54142893
+Execution Time 163.648399 > buffer size: 16
+Execution Time 163.648463 > request: 179, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 163.651902 > selected QI: 16
+Execution Time 163.870571 > buffer size: 15
+Execution Time 164.28237 > received: 179, 3305118, 2977072, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 164.282451 > measured throughput: 4695522.456340382
+Execution Time 164.282526 > buffer size: 16
+Execution Time 164.282673 > request: 180, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 164.287968 > selected QI: 16
+Execution Time 164.872447 > buffer size: 15
+Execution Time 165.038244 > received: 180, 3305118, 3543296, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 165.038319 > measured throughput: 4688834.57029688
+Execution Time 165.03839 > buffer size: 16
+Execution Time 165.038471 > request: 181, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 165.043371 > selected QI: 16
+Execution Time 165.87364 > buffer size: 15
+Execution Time 166.874817 > buffer size: 14
+Execution Time 167.876034 > buffer size: 13
+Execution Time 168.877221 > buffer size: 12
+Execution Time 169.878463 > buffer size: 11
+Execution Time 170.88038 > buffer size: 10
+Execution Time 171.340954 > received: 181, 3305118, 4070392, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.341024 > measured throughput: 645827.3170211227
+Execution Time 171.341091 > buffer size: 11
+Execution Time 171.341157 > request: 182, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.345694 > selected QI: 2
+Execution Time 171.473813 > received: 182, 135410, 139216, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.473862 > measured throughput: 1048777.866345862
+Execution Time 171.473918 > buffer size: 12
+Execution Time 171.47398 > request: 183, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.478911 > selected QI: 5
+Execution Time 171.647579 > received: 183, 270316, 275984, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.647625 > measured throughput: 1589045.3338927946
+Execution Time 171.647682 > buffer size: 13
+Execution Time 171.647743 > request: 184, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.653159 > selected QI: 7
+Execution Time 171.798683 > received: 184, 424520, 473360, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.798738 > measured throughput: 3134298.700359059
+Execution Time 171.798806 > buffer size: 14
+Execution Time 171.79888 > request: 185, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 171.804857 > selected QI: 12
+Execution Time 171.881483 > buffer size: 13
+Execution Time 172.125554 > received: 185, 1312787, 1514128, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 172.125633 > measured throughput: 4633329.630348606
+Execution Time 172.125708 > buffer size: 14
+Execution Time 172.125797 > request: 186, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 172.131069 > selected QI: 13
+Execution Time 172.443089 > received: 186, 1662809, 1473200, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 172.443174 > measured throughput: 4641065.00383313
+Execution Time 172.443243 > buffer size: 15
+Execution Time 172.443321 > request: 187, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 172.44878 > selected QI: 16
+Execution Time 172.88271 > buffer size: 14
+Execution Time 173.297026 > received: 187, 3305118, 4006040, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 173.297104 > measured throughput: 4691867.413271423
+Execution Time 173.297175 > buffer size: 15
+Execution Time 173.297244 > request: 188, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 173.302161 > selected QI: 16
+Execution Time 173.883956 > buffer size: 14
+Execution Time 174.175651 > received: 188, 3305118, 4125152, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 174.17572 > measured throughput: 4695596.626623384
+Execution Time 174.175791 > buffer size: 15
+Execution Time 174.175859 > request: 189, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 174.179774 > selected QI: 16
+Execution Time 174.885495 > buffer size: 14
+Execution Time 175.887252 > buffer size: 13
+Execution Time 176.8891 > buffer size: 12
+Execution Time 177.890288 > buffer size: 11
+Execution Time 178.891498 > buffer size: 10
+Execution Time 179.892759 > buffer size: 9
+Execution Time 180.789971 > received: 189, 3305118, 3530568, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 180.790042 > measured throughput: 533784.5638721247
+Execution Time 180.79011 > buffer size: 10
+Execution Time 180.790176 > request: 190, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 180.794677 > selected QI: 2
+Execution Time 180.894603 > buffer size: 9
+Execution Time 180.955302 > received: 190, 135410, 139384, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 180.955351 > measured throughput: 843667.9029827607
+Execution Time 180.955409 > buffer size: 10
+Execution Time 180.955471 > request: 191, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 180.959974 > selected QI: 4
+Execution Time 181.093322 > received: 191, 226106, 231408, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.093371 > measured throughput: 1677695.1979263823
+Execution Time 181.093425 > buffer size: 11
+Execution Time 181.093487 > request: 192, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.097991 > selected QI: 8
+Execution Time 181.256002 > received: 192, 537825, 456368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.256061 > measured throughput: 2806607.1377425697
+Execution Time 181.25613 > buffer size: 12
+Execution Time 181.256201 > request: 193, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.261456 > selected QI: 11
+Execution Time 181.51186 > received: 193, 1071529, 1182176, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.511929 > measured throughput: 4622120.959776034
+Execution Time 181.512 > buffer size: 13
+Execution Time 181.51207 > request: 194, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.516655 > selected QI: 13
+Execution Time 181.896476 > buffer size: 12
+Execution Time 181.907324 > received: 194, 1662809, 1844592, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.907438 > measured throughput: 4665080.208793987
+Execution Time 181.9075 > buffer size: 13
+Execution Time 181.907561 > request: 195, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 181.912195 > selected QI: 13
+Execution Time 182.309833 > received: 195, 1662809, 1877688, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 182.309902 > measured throughput: 4666545.332912131
+Execution Time 182.309971 > buffer size: 14
+Execution Time 182.310039 > request: 196, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 182.314679 > selected QI: 13
+Execution Time 182.746539 > received: 196, 1662809, 2039392, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 182.746609 > measured throughput: 4671024.055510389
+Execution Time 182.746677 > buffer size: 15
+Execution Time 182.746745 > request: 197, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 182.752529 > selected QI: 16
+Execution Time 182.897939 > buffer size: 14
+Execution Time 183.572447 > received: 197, 3305118, 3872568, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 183.572512 > measured throughput: 4689468.310344615
+Execution Time 183.572581 > buffer size: 15
+Execution Time 183.572651 > request: 198, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 183.577474 > selected QI: 16
+Execution Time 183.887888 > received: 198, 3305118, 1465592, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 183.887963 > measured throughput: 4647481.660844341
+Execution Time 183.888039 > buffer size: 16
+Execution Time 183.888165 > request: 199, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 183.893344 > selected QI: 16
+Execution Time 183.898317 > buffer size: 15
+Execution Time 184.502262 > received: 199, 3305118, 2873800, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 184.502329 > measured throughput: 4678602.240407677
+Execution Time 184.502394 > buffer size: 16
+Execution Time 184.502462 > request: 200, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 184.507183 > selected QI: 16
+Execution Time 184.899697 > buffer size: 15
+Execution Time 184.952839 > received: 200, 3305118, 2104288, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 184.952905 > measured throughput: 4671230.898701147
+Execution Time 184.952971 > buffer size: 16
+Execution Time 184.953036 > request: 201, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 184.957081 > selected QI: 16
+Execution Time 185.900886 > buffer size: 15
+Execution Time 186.901502 > buffer size: 14
+Execution Time 187.903364 > buffer size: 13
+Execution Time 188.904559 > buffer size: 12
+Execution Time 189.905309 > buffer size: 11
+Execution Time 190.78172 > received: 201, 3305118, 2853344, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 190.781793 > measured throughput: 489526.0162148346
+Execution Time 190.781863 > buffer size: 12
+Execution Time 190.78193 > request: 202, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 190.787573 > selected QI: 1
+Execution Time 190.856471 > received: 202, 91917, 97848, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 190.856514 > measured throughput: 1311269.4988508176
+Execution Time 190.856565 > buffer size: 13
+Execution Time 190.856653 > request: 203, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 190.862457 > selected QI: 6
+Execution Time 190.906475 > buffer size: 12
+Execution Time 190.979856 > received: 203, 352546, 363744, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 190.979905 > measured throughput: 2950628.8260850506
+Execution Time 190.979964 > buffer size: 13
+Execution Time 190.980024 > request: 204, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 190.985609 > selected QI: 11
+Execution Time 191.198355 > received: 204, 1071529, 1004448, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 191.198421 > measured throughput: 4598553.57679146
+Execution Time 191.198485 > buffer size: 14
+Execution Time 191.19855 > request: 205, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 191.20404 > selected QI: 13
+Execution Time 191.514248 > received: 205, 1662809, 1464712, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 191.514317 > measured throughput: 4638086.18432294
+Execution Time 191.514384 > buffer size: 15
+Execution Time 191.514454 > request: 206, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 191.519955 > selected QI: 16
+Execution Time 191.892248 > received: 206, 3305118, 1755768, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 191.892318 > measured throughput: 4646123.504029168
+Execution Time 191.892389 > buffer size: 16
+Execution Time 191.892457 > request: 207, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 191.897993 > selected QI: 16
+Execution Time 191.907637 > buffer size: 15
+Execution Time 192.61446 > received: 207, 3305118, 3380752, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 192.614532 > measured throughput: 4681775.312244249
+Execution Time 192.614599 > buffer size: 16
+Execution Time 192.614666 > request: 208, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 192.620403 > selected QI: 16
+Execution Time 192.908151 > buffer size: 15
+Execution Time 193.352462 > received: 208, 3305118, 3151576, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 193.352511 > measured throughput: 4271116.511164359
+Execution Time 193.352569 > buffer size: 16
+Execution Time 193.352642 > request: 209, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 193.357953 > selected QI: 16
+Execution Time 193.909335 > buffer size: 15
+Execution Time 193.963367 > received: 209, 3305118, 2858208, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 193.963448 > measured throughput: 4679079.558900765
+Execution Time 193.963531 > buffer size: 16
+Execution Time 193.963622 > request: 210, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 193.970188 > selected QI: 16
+Execution Time 194.822206 > received: 210, 3305118, 4020288, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 194.822276 > measured throughput: 4681787.443940134
+Execution Time 194.822342 > buffer size: 17
+Execution Time 194.822409 > request: 211, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 194.82818 > selected QI: 16
+Execution Time 194.910603 > buffer size: 16
+Execution Time 195.911546 > buffer size: 15
+Execution Time 196.912798 > buffer size: 14
+Execution Time 197.914 > buffer size: 13
+Execution Time 198.914846 > buffer size: 12
+Execution Time 199.916103 > buffer size: 11
+Execution Time 200.917286 > buffer size: 10
+Execution Time 201.048951 > received: 211, 3305118, 4341064, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.049022 > measured throughput: 697174.9772961222
+Execution Time 201.049089 > buffer size: 11
+Execution Time 201.049157 > request: 212, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.054323 > selected QI: 3
+Execution Time 201.127483 > received: 212, 182366, 202328, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.127531 > measured throughput: 2580396.3110970007
+Execution Time 201.127588 > buffer size: 12
+Execution Time 201.12765 > request: 213, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.132811 > selected QI: 10
+Execution Time 201.318613 > received: 213, 808057, 877048, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.31868 > measured throughput: 4590408.611275451
+Execution Time 201.318743 > buffer size: 13
+Execution Time 201.31881 > request: 214, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.323657 > selected QI: 13
+Execution Time 201.714223 > received: 214, 1662809, 1844040, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.714292 > measured throughput: 4662367.376215446
+Execution Time 201.714358 > buffer size: 14
+Execution Time 201.714425 > request: 215, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 201.720867 > selected QI: 13
+Execution Time 201.918183 > buffer size: 13
+Execution Time 202.014869 > received: 215, 1662809, 1385648, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 202.014939 > measured throughput: 4610390.083119358
+Execution Time 202.01501 > buffer size: 14
+Execution Time 202.015077 > request: 216, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 202.020696 > selected QI: 13
+Execution Time 202.364819 > received: 216, 1662809, 1624800, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 202.364891 > measured throughput: 4644292.977706652
+Execution Time 202.364956 > buffer size: 15
+Execution Time 202.365024 > request: 217, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 202.370385 > selected QI: 16
+Execution Time 202.91939 > buffer size: 14
+Execution Time 203.037249 > received: 217, 3305118, 3149280, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 203.037321 > measured throughput: 4684111.037791749
+Execution Time 203.037388 > buffer size: 15
+Execution Time 203.037456 > request: 218, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 203.042994 > selected QI: 16
+Execution Time 203.755232 > received: 218, 3305118, 3363528, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 203.755299 > measured throughput: 4685373.453570108
+Execution Time 203.755368 > buffer size: 16
+Execution Time 203.755438 > request: 219, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 203.761263 > selected QI: 16
+Execution Time 203.920603 > buffer size: 15
+Execution Time 204.547737 > received: 219, 3305118, 3714288, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 204.547802 > measured throughput: 4687392.945812924
+Execution Time 204.547866 > buffer size: 16
+Execution Time 204.547932 > request: 220, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 204.553586 > selected QI: 16
+Execution Time 204.921542 > buffer size: 15
+Execution Time 205.287377 > received: 220, 3305118, 3462256, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 205.287447 > measured throughput: 4681569.4469355
+Execution Time 205.287515 > buffer size: 16
+Execution Time 205.287582 > request: 221, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 205.293071 > selected QI: 16
+Execution Time 205.922777 > buffer size: 15
+Execution Time 206.924019 > buffer size: 14
+Execution Time 207.925028 > buffer size: 13
+Execution Time 208.926219 > buffer size: 12
+Execution Time 209.927491 > buffer size: 11
+Execution Time 210.92817 > buffer size: 10
+Execution Time 211.139528 > received: 221, 3305118, 2935064, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.1396 > measured throughput: 501544.4689251271
+Execution Time 211.139667 > buffer size: 11
+Execution Time 211.139733 > request: 222, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.144214 > selected QI: 1
+Execution Time 211.197331 > received: 222, 91917, 79960, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.197389 > measured throughput: 1386029.0868316672
+Execution Time 211.197461 > buffer size: 12
+Execution Time 211.197548 > request: 223, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.204914 > selected QI: 7
+Execution Time 211.280116 > received: 223, 424520, 242136, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.280159 > measured throughput: 2929557.4496482313
+Execution Time 211.280211 > buffer size: 13
+Execution Time 211.280268 > request: 224, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.286169 > selected QI: 11
+Execution Time 211.491341 > received: 224, 1071529, 968336, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.491409 > measured throughput: 4585624.896381006
+Execution Time 211.491497 > buffer size: 14
+Execution Time 211.491565 > request: 225, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.497569 > selected QI: 13
+Execution Time 211.83381 > received: 225, 1662809, 1587416, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.833878 > measured throughput: 4636847.117351204
+Execution Time 211.833944 > buffer size: 15
+Execution Time 211.834011 > request: 226, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 211.839754 > selected QI: 16
+Execution Time 211.929395 > buffer size: 14
+Execution Time 212.664341 > received: 226, 3305118, 3894424, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 212.664407 > measured throughput: 4689642.150179559
+Execution Time 212.664474 > buffer size: 15
+Execution Time 212.66454 > request: 227, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 212.670487 > selected QI: 16
+Execution Time 212.930659 > buffer size: 14
+Execution Time 213.541545 > received: 227, 3305118, 4113384, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 213.54162 > measured throughput: 4689675.062389738
+Execution Time 213.541693 > buffer size: 15
+Execution Time 213.541761 > request: 228, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 213.548413 > selected QI: 16
+Execution Time 213.931559 > buffer size: 14
+Execution Time 214.324159 > received: 228, 3305118, 3663656, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 214.324221 > measured throughput: 4682019.277074789
+Execution Time 214.324283 > buffer size: 15
+Execution Time 214.324342 > request: 229, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 214.33048 > selected QI: 16
+Execution Time 214.871638 > received: 229, 3305118, 2555544, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 214.871726 > measured throughput: 4668404.225748904
+Execution Time 214.871805 > buffer size: 16
+Execution Time 214.871899 > request: 230, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 214.880329 > selected QI: 16
+Execution Time 214.932796 > buffer size: 15
+Execution Time 215.934035 > buffer size: 14
+Execution Time 216.934858 > buffer size: 13
+Execution Time 217.936068 > buffer size: 12
+Execution Time 218.937266 > buffer size: 11
+Execution Time 219.938517 > buffer size: 10
+Execution Time 220.939746 > buffer size: 9
+Execution Time 221.00495 > received: 230, 3305118, 4065184, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.005011 > measured throughput: 662820.4085479636
+Execution Time 221.005078 > buffer size: 10
+Execution Time 221.00514 > request: 231, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.011103 > selected QI: 2
+Execution Time 221.068024 > received: 231, 135410, 98400, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.068064 > measured throughput: 1563001.9396396358
+Execution Time 221.068156 > buffer size: 11
+Execution Time 221.068212 > request: 232, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.074466 > selected QI: 7
+Execution Time 221.20777 > received: 232, 424520, 388368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.207816 > measured throughput: 2781385.5773185766
+Execution Time 221.207867 > buffer size: 12
+Execution Time 221.207927 > request: 233, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.213281 > selected QI: 11
+Execution Time 221.453363 > received: 233, 1071529, 1133376, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.453437 > measured throughput: 4615937.441840721
+Execution Time 221.453513 > buffer size: 13
+Execution Time 221.453598 > request: 234, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.460986 > selected QI: 13
+Execution Time 221.724948 > received: 234, 1662809, 1246368, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.725026 > measured throughput: 4591185.946172829
+Execution Time 221.725098 > buffer size: 14
+Execution Time 221.725173 > request: 235, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.729461 > selected QI: 13
+Execution Time 221.940966 > buffer size: 13
+Execution Time 221.969734 > received: 235, 1662809, 1134264, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.969806 > measured throughput: 4635877.744937945
+Execution Time 221.969869 > buffer size: 14
+Execution Time 221.96993 > request: 236, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 221.974039 > selected QI: 13
+Execution Time 222.26367 > received: 236, 1662809, 1367408, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 222.263735 > measured throughput: 4653581.747566019
+Execution Time 222.263803 > buffer size: 15
+Execution Time 222.26387 > request: 237, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 222.27017 > selected QI: 16
+Execution Time 222.763907 > received: 237, 3305118, 2331664, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 222.763969 > measured throughput: 4662073.976692121
+Execution Time 222.764042 > buffer size: 16
+Execution Time 222.764113 > request: 238, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 222.76903 > selected QI: 16
+Execution Time 222.941524 > buffer size: 15
+Execution Time 223.34672 > received: 238, 3305118, 2727992, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 223.3468 > measured throughput: 4681451.412007524
+Execution Time 223.346876 > buffer size: 16
+Execution Time 223.346965 > request: 239, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 223.354351 > selected QI: 16
+Execution Time 223.849948 > received: 239, 3305118, 2337216, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 223.850012 > measured throughput: 4645725.449211714
+Execution Time 223.850076 > buffer size: 17
+Execution Time 223.850141 > request: 240, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 223.856653 > selected QI: 16
+Execution Time 223.942765 > buffer size: 16
+Execution Time 224.428978 > received: 240, 3305118, 2702848, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 224.429045 > measured throughput: 4668648.15835521
+Execution Time 224.429111 > buffer size: 17
+Execution Time 224.429175 > request: 241, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 224.435919 > selected QI: 16
+Execution Time 224.922965 > received: 241, 3305118, 2299968, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 224.923037 > measured throughput: 4656776.00250518
+Execution Time 224.923101 > buffer size: 18
+Execution Time 224.923161 > request: 242, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 224.927495 > selected QI: 16
+Execution Time 224.944037 > buffer size: 17
+Execution Time 225.945391 > buffer size: 16
+Execution Time 226.946597 > buffer size: 15
+Execution Time 227.947803 > buffer size: 14
+Execution Time 228.948167 > buffer size: 13
+Execution Time 229.949384 > buffer size: 12
+Execution Time 230.780544 > received: 242, 3305118, 2994640, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 230.780614 > measured throughput: 511250.169375525
+Execution Time 230.780683 > buffer size: 13
+Execution Time 230.780753 > request: 243, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 230.787187 > selected QI: 2
+Execution Time 230.866612 > received: 243, 135410, 125136, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 230.86666 > measured throughput: 1455999.2875426402
+Execution Time 230.866717 > buffer size: 14
+Execution Time 230.866779 > request: 244, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 230.873277 > selected QI: 7
+Execution Time 230.95061 > buffer size: 13
+Execution Time 230.978455 > received: 244, 424520, 493456, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 230.978525 > measured throughput: 4414694.810060445
+Execution Time 230.978592 > buffer size: 14
+Execution Time 230.978658 > request: 245, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 230.985265 > selected QI: 13
+Execution Time 231.366867 > received: 245, 1662809, 1801856, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 231.366934 > measured throughput: 4640223.5503565315
+Execution Time 231.366999 > buffer size: 15
+Execution Time 231.367073 > request: 246, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 231.374795 > selected QI: 16
+Execution Time 231.951491 > buffer size: 14
+Execution Time 232.129559 > received: 246, 3305118, 3564832, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 232.129633 > measured throughput: 4674585.386238652
+Execution Time 232.129702 > buffer size: 15
+Execution Time 232.129778 > request: 247, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 232.137427 > selected QI: 16
+Execution Time 232.952752 > buffer size: 14
+Execution Time 232.973125 > received: 247, 3305118, 3943696, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 232.973194 > measured throughput: 4675620.986901052
+Execution Time 232.973261 > buffer size: 15
+Execution Time 232.973328 > request: 248, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 232.979991 > selected QI: 16
+Execution Time 233.820591 > received: 248, 3305118, 3969704, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 233.82066 > measured throughput: 4684758.186873877
+Execution Time 233.820727 > buffer size: 16
+Execution Time 233.820797 > request: 249, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 233.827526 > selected QI: 16
+Execution Time 233.953954 > buffer size: 15
+Execution Time 234.673724 > received: 249, 3305118, 3996256, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 234.673798 > measured throughput: 4684755.967287666
+Execution Time 234.673872 > buffer size: 16
+Execution Time 234.673946 > request: 250, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 234.682105 > selected QI: 16
+Execution Time 234.954851 > buffer size: 15
+Execution Time 235.522565 > received: 250, 3305118, 3969088, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 235.522642 > measured throughput: 4676464.189796597
+Execution Time 235.522719 > buffer size: 16
+Execution Time 235.522795 > request: 251, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 235.530066 > selected QI: 16
+Execution Time 235.955143 > buffer size: 15
+Execution Time 236.956379 > buffer size: 14
+Execution Time 237.957598 > buffer size: 13
+Execution Time 238.958182 > buffer size: 12
+Execution Time 239.95942 > buffer size: 11
+Execution Time 240.960678 > buffer size: 10
+Execution Time 241.430693 > received: 251, 3305118, 3196968, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.430761 > measured throughput: 541124.5614587963
+Execution Time 241.430827 > buffer size: 11
+Execution Time 241.430894 > request: 252, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.438359 > selected QI: 2
+Execution Time 241.514408 > received: 252, 135410, 114920, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.514454 > measured throughput: 1374694.8041708865
+Execution Time 241.514514 > buffer size: 12
+Execution Time 241.514584 > request: 253, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.521737 > selected QI: 6
+Execution Time 241.683613 > received: 253, 352546, 379936, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.683783 > measured throughput: 2245046.8494141446
+Execution Time 241.683871 > buffer size: 13
+Execution Time 241.683937 > request: 254, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.690006 > selected QI: 9
+Execution Time 241.840429 > received: 254, 620705, 710096, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.840488 > measured throughput: 4534855.1594840335
+Execution Time 241.840549 > buffer size: 14
+Execution Time 241.840609 > request: 255, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 241.846603 > selected QI: 13
+Execution Time 241.961555 > buffer size: 13
+Execution Time 242.188721 > received: 255, 1662809, 1615344, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 242.188793 > measured throughput: 4638917.041525136
+Execution Time 242.188861 > buffer size: 14
+Execution Time 242.188924 > request: 256, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 242.196155 > selected QI: 13
+Execution Time 242.574952 > received: 256, 1662809, 1789336, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 242.575037 > measured throughput: 4633880.056303451
+Execution Time 242.575128 > buffer size: 15
+Execution Time 242.575214 > request: 257, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 242.58767 > selected QI: 16
+Execution Time 242.912542 > received: 257, 3305118, 1533688, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 242.91261 > measured throughput: 4545110.925621125
+Execution Time 242.912676 > buffer size: 16
+Execution Time 242.912742 > request: 258, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 242.921109 > selected QI: 16
+Execution Time 242.962171 > buffer size: 15
+Execution Time 243.714036 > received: 258, 3305118, 3741568, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 243.714101 > measured throughput: 4668831.733198338
+Execution Time 243.714167 > buffer size: 16
+Execution Time 243.714232 > request: 259, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 243.722975 > selected QI: 16
+Execution Time 243.963562 > buffer size: 15
+Execution Time 244.633891 > received: 259, 3305118, 4301880, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 244.633977 > measured throughput: 4677092.053601349
+Execution Time 244.634053 > buffer size: 16
+Execution Time 244.634126 > request: 260, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 244.641827 > selected QI: 16
+Execution Time 244.964804 > buffer size: 15
+Execution Time 245.40825 > received: 260, 3305118, 3617568, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 245.408322 > measured throughput: 4672435.843053542
+Execution Time 245.408393 > buffer size: 16
+Execution Time 245.408459 > request: 261, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 245.417508 > selected QI: 16
+Execution Time 245.965044 > buffer size: 15
+Execution Time 246.966227 > buffer size: 14
+Execution Time 247.967933 > buffer size: 13
+Execution Time 248.968216 > buffer size: 12
+Execution Time 249.969489 > buffer size: 11
+Execution Time 250.970798 > buffer size: 10
+Execution Time 251.448258 > received: 261, 3305118, 3247952, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 251.448322 > measured throughput: 537749.5065071494
+Execution Time 251.448383 > buffer size: 11
+Execution Time 251.448448 > request: 262, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 251.456874 > selected QI: 2
+Execution Time 251.830598 > received: 262, 135410, 130640, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 251.830646 > measured throughput: 341779.9192874271
+Execution Time 251.830704 > buffer size: 12
+Execution Time 251.830766 > request: 263, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 251.839576 > selected QI: 0
+Execution Time 251.8912 > received: 263, 46980, 51288, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 251.89125 > measured throughput: 847532.0314647318
+Execution Time 251.891308 > buffer size: 13
+Execution Time 251.891377 > request: 264, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 251.90041 > selected QI: 4
+Execution Time 251.972539 > buffer size: 12
+Execution Time 252.004532 > received: 264, 226106, 233800, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 252.004582 > measured throughput: 2064627.065910937
+Execution Time 252.004641 > buffer size: 13
+Execution Time 252.004704 > request: 265, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 252.01379 > selected QI: 9
+Execution Time 252.160346 > received: 265, 620705, 688960, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 252.160416 > measured throughput: 4423694.37958625
+Execution Time 252.160482 > buffer size: 14
+Execution Time 252.160548 > request: 266, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 252.169511 > selected QI: 13
+Execution Time 252.45614 > received: 266, 1662809, 1353112, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 252.45621 > measured throughput: 4576027.057841041
+Execution Time 252.456273 > buffer size: 15
+Execution Time 252.456343 > request: 267, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 252.465466 > selected QI: 16
+Execution Time 252.974436 > buffer size: 14
+Execution Time 253.234114 > received: 267, 3305118, 3626936, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 253.234178 > measured throughput: 4662644.739149389
+Execution Time 253.234238 > buffer size: 15
+Execution Time 253.234304 > request: 268, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 253.243101 > selected QI: 16
+Execution Time 253.944075 > received: 268, 3305118, 3310240, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 253.94448 > measured throughput: 4660995.707824864
+Execution Time 253.944579 > buffer size: 16
+Execution Time 253.944669 > request: 269, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 253.956434 > selected QI: 16
+Execution Time 253.974848 > buffer size: 15
+Execution Time 254.878997 > received: 269, 3305118, 4354464, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 254.879071 > measured throughput: 4659927.264941431
+Execution Time 254.87914 > buffer size: 16
+Execution Time 254.879207 > request: 270, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 254.887889 > selected QI: 16
+Execution Time 254.976111 > buffer size: 15
+Execution Time 255.977981 > buffer size: 14
+Execution Time 256.979678 > buffer size: 13
+Execution Time 257.980931 > buffer size: 12
+Execution Time 258.981928 > buffer size: 11
+Execution Time 259.983154 > buffer size: 10
+Execution Time 260.893611 > received: 270, 3305118, 3557336, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 260.893679 > measured throughput: 591459.367737321
+Execution Time 260.893744 > buffer size: 11
+Execution Time 260.893803 > request: 271, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 260.902761 > selected QI: 2
+Execution Time 260.978401 > received: 271, 135410, 125776, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 260.978451 > measured throughput: 1485357.4970377935
+Execution Time 260.978508 > buffer size: 12
+Execution Time 260.97857 > request: 272, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 260.984379 > buffer size: 11
+Execution Time 260.9878 > selected QI: 7
+Execution Time 261.110547 > received: 272, 424520, 482512, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 261.110595 > measured throughput: 3653793.0797782904
+Execution Time 261.110653 > buffer size: 12
+Execution Time 261.110715 > request: 273, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 261.120261 > selected QI: 13
+Execution Time 261.560027 > received: 273, 1662809, 2073408, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 261.560098 > measured throughput: 4613577.566211267
+Execution Time 261.560166 > buffer size: 13
+Execution Time 261.560235 > request: 274, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 261.569507 > selected QI: 13
+Execution Time 261.981722 > received: 274, 1662809, 1943320, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 261.981793 > measured throughput: 4609448.308301312
+Execution Time 261.98186 > buffer size: 14
+Execution Time 261.981928 > request: 275, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 261.985565 > buffer size: 13
+Execution Time 261.99133 > selected QI: 13
+Execution Time 262.414529 > received: 275, 1662809, 1995208, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 262.414597 > measured throughput: 4611035.959567182
+Execution Time 262.414667 > buffer size: 14
+Execution Time 262.414736 > request: 276, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 262.424193 > selected QI: 13
+Execution Time 262.802298 > received: 276, 1662809, 1785432, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 262.802365 > measured throughput: 4605630.73176894
+Execution Time 262.80243 > buffer size: 15
+Execution Time 262.802497 > request: 277, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 262.81203 > selected QI: 16
+Execution Time 262.986771 > buffer size: 14
+Execution Time 263.375305 > received: 277, 3305118, 2657032, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 263.375376 > measured throughput: 4637753.616915977
+Execution Time 263.375445 > buffer size: 15
+Execution Time 263.375512 > request: 278, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 263.385096 > selected QI: 16
+Execution Time 263.987976 > buffer size: 14
+Execution Time 264.147759 > received: 278, 3305118, 3601984, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 264.147829 > measured throughput: 4663641.572581116
+Execution Time 264.147891 > buffer size: 15
+Execution Time 264.147952 > request: 279, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 264.154885 > selected QI: 16
+Execution Time 264.860375 > received: 279, 3305118, 3331592, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 264.860445 > measured throughput: 4675743.98288171
+Execution Time 264.860513 > buffer size: 16
+Execution Time 264.860582 > request: 280, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 264.869989 > selected QI: 16
+Execution Time 264.98932 > buffer size: 15
+Execution Time 265.991254 > buffer size: 14
+Execution Time 266.992989 > buffer size: 13
+Execution Time 267.994859 > buffer size: 12
+Execution Time 268.996055 > buffer size: 11
+Execution Time 269.997934 > buffer size: 10
+Execution Time 270.999806 > buffer size: 9
+Execution Time 271.068627 > received: 280, 3305118, 4286808, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.068694 > measured throughput: 690513.1571779362
+Execution Time 271.068756 > buffer size: 10
+Execution Time 271.068827 > request: 281, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.078354 > selected QI: 3
+Execution Time 271.150461 > received: 281, 182366, 178528, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.150519 > measured throughput: 2184452.5777410255
+Execution Time 271.150586 > buffer size: 11
+Execution Time 271.15066 > request: 282, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.160678 > selected QI: 9
+Execution Time 271.293159 > received: 282, 620705, 624936, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.293228 > measured throughput: 4382250.689810893
+Execution Time 271.293297 > buffer size: 12
+Execution Time 271.293424 > request: 283, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.303686 > selected QI: 13
+Execution Time 271.732275 > received: 283, 1662809, 2023544, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.732344 > measured throughput: 4609915.160351702
+Execution Time 271.732415 > buffer size: 13
+Execution Time 271.732485 > request: 284, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 271.742404 > selected QI: 13
+Execution Time 272.001682 > buffer size: 12
+Execution Time 272.10432 > received: 284, 1662809, 1708712, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 272.10439 > measured throughput: 4594040.502065148
+Execution Time 272.104456 > buffer size: 13
+Execution Time 272.104522 > request: 285, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 272.11445 > selected QI: 13
+Execution Time 272.510634 > received: 285, 1662809, 1867688, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 272.510703 > measured throughput: 4597766.965667189
+Execution Time 272.51077 > buffer size: 14
+Execution Time 272.510838 > request: 286, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 272.520933 > selected QI: 13
+Execution Time 272.848628 > received: 286, 1662809, 1544128, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 272.848697 > measured throughput: 4569863.243976024
+Execution Time 272.848767 > buffer size: 15
+Execution Time 272.848834 > request: 287, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 272.858951 > selected QI: 16
+Execution Time 273.001973 > buffer size: 14
+Execution Time 273.578295 > received: 287, 3305118, 3396664, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 273.578364 > measured throughput: 4655734.743443828
+Execution Time 273.578433 > buffer size: 15
+Execution Time 273.578499 > request: 288, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 273.588456 > selected QI: 16
+Execution Time 274.003162 > buffer size: 14
+Execution Time 274.33829 > received: 288, 3305118, 3538488, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 274.338359 > measured throughput: 4656545.85681927
+Execution Time 274.338429 > buffer size: 15
+Execution Time 274.338497 > request: 289, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 274.348722 > selected QI: 16
+Execution Time 275.004446 > buffer size: 14
+Execution Time 275.10281 > received: 289, 3305118, 3560024, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 275.10288 > measured throughput: 4657162.129135873
+Execution Time 275.102951 > buffer size: 15
+Execution Time 275.10302 > request: 290, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 275.113091 > selected QI: 16
+Execution Time 276.005705 > buffer size: 14
+Execution Time 277.007048 > buffer size: 13
+Execution Time 278.008309 > buffer size: 12
+Execution Time 279.00954 > buffer size: 11
+Execution Time 280.011442 > buffer size: 10
+Execution Time 281.013356 > buffer size: 9
+Execution Time 281.118004 > received: 290, 3305118, 3545992, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.118118 > measured throughput: 589515.9806241965
+Execution Time 281.118181 > buffer size: 10
+Execution Time 281.118246 > request: 291, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.128579 > selected QI: 2
+Execution Time 281.214484 > received: 291, 135410, 138976, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.214532 > measured throughput: 1442835.946687645
+Execution Time 281.21459 > buffer size: 11
+Execution Time 281.214652 > request: 292, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.225493 > selected QI: 7
+Execution Time 281.322041 > received: 292, 424520, 353560, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.322085 > measured throughput: 3290024.44874607
+Execution Time 281.322139 > buffer size: 12
+Execution Time 281.322198 > request: 293, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.33286 > selected QI: 12
+Execution Time 281.614264 > received: 293, 1312787, 1325392, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.614334 > measured throughput: 4536436.94029342
+Execution Time 281.614404 > buffer size: 13
+Execution Time 281.614472 > request: 294, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 281.625257 > selected QI: 13
+Execution Time 282.015268 > buffer size: 12
+Execution Time 282.10548 > received: 294, 1662809, 2267520, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 282.105551 > measured throughput: 4617091.054632066
+Execution Time 282.105622 > buffer size: 13
+Execution Time 282.105691 > request: 295, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 282.116367 > selected QI: 13
+Execution Time 282.452437 > received: 295, 1662809, 1586672, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 282.452509 > measured throughput: 4574482.44829778
+Execution Time 282.452579 > buffer size: 14
+Execution Time 282.452648 > request: 296, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 282.463161 > selected QI: 13
+Execution Time 282.899818 > received: 296, 1662809, 2059088, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 282.899888 > measured throughput: 4603629.741406078
+Execution Time 282.899955 > buffer size: 15
+Execution Time 282.900023 > request: 297, 0, 0, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 282.910764 > selected QI: 16
+Execution Time 283.016534 > buffer size: 14
+Execution Time 283.385656 > received: 297, 3305118, 2239344, True, http://45.171.101.167/DASHDataset/BigBuckBunny/1sec, bunny_$Bandwidth$bps/BigBuckBunny_1s$Number$.m4s, 45.171.101.167
+Execution Time 283.385726 > measured throughput: 4610191.660983553
